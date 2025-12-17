@@ -6,7 +6,9 @@ This project provides a full‑featured DICOM Viewer built with PyQt, designed f
 ---
 
 ## Demo
+
 https://github.com/user-attachments/assets/a7041f75-5dcc-4cd0-ad93-05ef0f312846
+
 ---
 
 ## Key Features
