@@ -38,4 +38,4 @@ https://github.com/user-attachments/assets/a7041f75-5dcc-4cd0-ad93-05ef0f312846
 ---
 
 ## Presentation
-- 📊 [**Click to View Project Presentation**]([presentation/DICOM_VIEWER.pdf](https://www.canva.com/design/DAGYXN9q_ic/zoVGAX47aUfnRZ7jQ2uDxw/view?utm_content=DAGYXN9q_ic&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hcdf39cdd30))
+- 📊 [**Click to View Project Presentation**](https://www.canva.com/design/DAGYXN9q_ic/zoVGAX47aUfnRZ7jQ2uDxw/view?utm_content=DAGYXN9q_ic&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hcdf39cdd30)
